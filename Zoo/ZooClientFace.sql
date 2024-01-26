@@ -1,0 +1,1 @@
+EXECUTE [dbo].[getAnimal_INFO] 'brown bear'
